@@ -1,25 +1,28 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Affiliations. Principal Research Engineer at <a href="https://liu.se/en/employee/sagha08" target="_blank">Linköping University</a>, and Co-Founder of <a href="https://fairaidata.com/" target="_blank">Fair AI Data</a>
 
 profile:
-  align: right
-  image: prof_pic.jpg
+  align: left
+  image: 20190629_115118.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  # more_info: >
+  #   <p>555 your office number</p>
+  #   <p>123 your address street</p>
+  #   <p>Your City, State 12345</p>
 
 news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+As a researcher in the field of computer graphics and computational photography, I have a passion for exploring new ways to represent and analyze visual data. My research interests include image processing, compressed sensing for visual data, machine learning, and synthetic data generation. My expertise are in visual machine learning algorithm, high dynamic range imaging, photo-realistic rendering, compressive imaging, and light fields.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am deeply interested by the potential of fair representation learning for enhancing machine learning algorithms and AI systems. My aim is to create models that promote inclusivity and ethical decision-making in AI technologies.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I completed my Postdoc in Computer Graphics and Image Processing Group between 2020-2022, received my PhD from Linköping University in 2020, with a focus on High Dynamic Range Imaging and Light Fields, under the supervision of <a href="https://itn-web.it.liu.se/~jonun48/web/Home.php" target="_blank">Prof. Jonas Unger</a>. I received my Master's degree in Computer Graphics from Linköping University in 2013, and my Bachelor's degree in Computer Science from Amirkabir University in Tehran.
+I am always excited to learn and apply new techniques to better understand and improve the way we interact with visual data.
+
+
