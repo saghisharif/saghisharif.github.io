@@ -6,7 +6,7 @@ subtitle: Affiliations. Principal Research Engineer at <a href="https://liu.se/e
 
 profile:
   align: left
-  image: 20190629_115118.jpg
+  image: DSC01011.JPG
   image_circular: false # crops the image to make it circular
   # more_info: >
   #   <p>555 your office number</p>
